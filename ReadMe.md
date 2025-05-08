@@ -2,7 +2,7 @@
 
 This is a tool to create the starter files we always create in Unreal Engine, rather than manually creating the folders and naming them this tool does both.
 
-<img src = "assets/StartingProjectFolders.PNG">
+<img src = "TechDir_PersonalProj/assets/StartingProjectFolders.PNG">
 
 # How to Run
 
